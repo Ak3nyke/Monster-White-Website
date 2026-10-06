@@ -6,7 +6,7 @@ This site (dedicated to Monster White) is optimized for both mobile and desktop;
 
 What _cool_ features does it have?
 
-1. It has an actual intro sequence before letting you access the site (_pretty cool_).
+1. It has an actual themed intro sequence before letting you access the site (_pretty cool_).
 
 2. It adapts to various resolutions "720p", "1080p", "2K", and "4K" so you won't see giant icons at 1080p or tiny ones at 4K.
 
